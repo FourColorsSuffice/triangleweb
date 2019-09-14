@@ -28,3 +28,4 @@ mvn package
 <p>6) access web
 <p>http://x.x.x.x:8080/triangleweb/
 <p>enjoy.
+<p>to install from dockerhub please use docker run -it --rm -p 8080:8080 fourcolorssuffice/triangleweb 
